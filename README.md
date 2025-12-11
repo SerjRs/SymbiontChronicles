@@ -1,3 +1,5 @@
+<img width="562" height="653" alt="image" src="https://github.com/user-attachments/assets/bec1c423-f156-4b61-96ad-6a1862210cf7" />
+
 # SymbiontChronicles
 ### Introduction
 It is curious to watch how humanity keeps writing the same instruction, again and again, changing only the addressee.
